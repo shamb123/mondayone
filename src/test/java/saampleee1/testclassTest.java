@@ -5,6 +5,8 @@ public class testclassTest {
 	
 	public void minee() {
 		System.out.println("gbijlkk");
+		System
+		
 	}
 	
 	
